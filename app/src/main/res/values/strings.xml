@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string name="taskTitleLabel">Nazwa</string>
+    <string name="taskDescriptionLabel">Opis</string>
+    <string name="taskDoToLabel">Termin</string>
+    <string name="taskStatusLabel">Status</string>
+    <string name="buttonAddTask">Dodaj</string>
+    <string name="buttonEdytujTask">Edytuj</string>
+    <string name="buttonSaveTask">Zapisz</string>
+    <string name="buttonBackTask">Wróc</string>
+    <string name="textAboutTask">Wybierz zadanie</string>
+</resources>
